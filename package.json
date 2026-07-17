@@ -1,0 +1,13 @@
+{
+  "name": "@xeplr/schema-handler",
+  "version": "1.0.0",
+  "description": "Field-schema primitive: define, validate, infer, map, and template values across schemas",
+  "main": "index.js",
+  "files": ["index.js", "lib/"],
+  "keywords": ["schema", "validation", "mapping", "templating", "form"],
+  "author": "xeplr",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/Xeplr/xeplr-schema-handler" },
+  "publishConfig": { "access": "public" },
+  "dependencies": {}
+}
