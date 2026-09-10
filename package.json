@@ -1,6 +1,6 @@
 {
   "name": "@xeplr/schema-handler",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Field-schema primitive: define, validate, infer, map, and template values across schemas",
   "main": "index.js",
   "files": [
